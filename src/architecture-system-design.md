@@ -59,16 +59,6 @@
 
 ---
 
-
-
-- *How would you evolve a monolith into microservices?*
-- *Explain the SAGA pattern and when to use orchestration vs choreography.*
-- *Describe a situation where eventual consistency is acceptable.*
-- *How would you design a file upload service with virus-scan notification?*
-- *Which architecture pattern would you use to isolate domain logic from infrastructure?*
-
----
-
 ## ⚙️ 🔁 Messaging & Asynchronous Communication
 
 ### RabbitMQ vs Kafka (High-level)
